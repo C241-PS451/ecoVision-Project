@@ -18,6 +18,11 @@ accessible to all.
 - Muhammad Fauzi  (A012D4KY4163)
 
 ## Screenshots
+![Pixel 8 Pro Mockup Obsidian](https://github.com/C241-PS451/ecoVision-Project/assets/108229646/d530b5a3-ec62-4f29-91a6-b55a4e957e65)
+![Pixel 8 Pro Mockup Obsidian (1)](https://github.com/C241-PS451/ecoVision-Project/assets/108229646/89f198f4-8c11-4c6a-a566-c3fa5177a2f0)
+![Pixel 8 Pro Mockup Obsidian (2)](https://github.com/C241-PS451/ecoVision-Project/assets/108229646/b2b0fbfb-bba7-4996-9235-c49192fa6e9d)
+![Pixel 8 Pro Mockup Obsidian (3)](https://github.com/C241-PS451/ecoVision-Project/assets/108229646/f220052f-9edf-4091-b9b9-23a5a561b3d0)
+
 
 
 ## Main Features
