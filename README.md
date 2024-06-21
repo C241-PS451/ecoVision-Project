@@ -14,7 +14,7 @@ accessible to all.
 - Fathan Shani  (M009D4KY1953)
 - Prananta Agistya (C014D4KY0443)
 - Dika Fauziladhim  (C009D4KY0750)
-- Dika Fauziladhim  (C009D4KY0750)
+- Ananda Nurrizki (A009D4KY3894)
 - Muhammad Fauzi  (A012D4KY4163)
 
 ## Main Features
