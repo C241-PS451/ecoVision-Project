@@ -17,6 +17,9 @@ accessible to all.
 - Ananda Nurrizki (A009D4KY3894)
 - Muhammad Fauzi  (A012D4KY4163)
 
+## Screenshots
+
+
 ## Main Features
 
 - Identifies the types of plastic
