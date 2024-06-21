@@ -8,6 +8,15 @@ accessible to all.
 
 ![Logo](https://i.ibb.co.com/4Mw1Vc2/ecovision.png)
 
+## Our Team Member
+- Azzaria Ivena (M004D4KX1739)
+- Miftah Fadillah (M299D4KY2280)
+- Fathan Shani  (M009D4KY1953)
+- Prananta Agistya (C014D4KY0443)
+- Dika Fauziladhim  (C009D4KY0750)
+- Dika Fauziladhim  (C009D4KY0750)
+- Muhammad Fauzi  (A012D4KY4163)
+
 ## Main Features
 
 - Identifies the types of plastic
