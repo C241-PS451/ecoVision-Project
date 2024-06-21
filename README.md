@@ -27,6 +27,8 @@ accessible to all.
  - [TensorFlow](https://www.tensorflow.org/)
  - [Retrofit](https://square.github.io/retrofit/)
  - [Glide](https://github.com/bumptech/glide)
+ - [Firebase](https://firebase.google.com/)
+ - [CameraX](https://developer.android.com/media/camera/camerax)
 
 ## Resources
 
