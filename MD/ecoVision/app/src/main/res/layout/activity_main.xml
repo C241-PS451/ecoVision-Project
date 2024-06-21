@@ -5,7 +5,7 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".ui.MainActivity">
 
     <FrameLayout
         android:id="@+id/frameFragment"
@@ -17,8 +17,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom"
-        app:fabCradleMargin="16dp"
-        app:fabCradleRoundedCornerRadius="20dp">
+        app:fabCradleMargin="13dp"
+        app:fabCradleRoundedCornerRadius="32dp">
 
         <com.google.android.material.bottomnavigation.BottomNavigationView
             android:id="@+id/bottomNavigationView"
@@ -37,8 +37,9 @@
         android:id="@+id/fabScan"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/ic_home"
-        app:layout_anchor="@id/bottomAppBar" />
+        android:src="@drawable/ic_scan"
+        app:layout_anchor="@id/bottomAppBar"
+        android:contentDescription="@string/scan_button"/>
 
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

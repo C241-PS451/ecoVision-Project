@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_margin="8dp"
+    android:padding="8dp"
+    app:cardCornerRadius="23dp"
+    app:cardBackgroundColor="@color/light_green"
+    app:cardElevation="4dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="8dp">
+
+        <!-- Use a placeholder image -->
+
+        <!-- New horizontal LinearLayout to contain TextView and ImageView -->
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:background="@drawable/roundstyle"
+            android:id="@+id/imageViewPlastic"
+            android:layout_width="match_parent"
+            android:layout_height="130dp"
+            android:layout_gravity="center"
+            android:scaleType="centerCrop"
+            app:shapeAppearanceOverlay="@style/RoundedCorners"
+            tools:src="@drawable/pet_image" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:layout_marginTop="8dp">
+
+            <ImageView
+                android:id="@+id/imageViewPlasticSymbol"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_gravity="center"
+                tools:src="@drawable/ic_pet" /> <!-- Use a placeholder image -->
+
+            <TextView
+                android:id="@+id/textViewPlasticName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                tools:text="Plastic Type"
+                android:layout_marginStart="4dp"
+                android:textSize="16sp"
+                android:textColor="@android:color/black" />
+
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
