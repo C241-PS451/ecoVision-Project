@@ -47,7 +47,7 @@ accessible to all.
 
 #### 1. Clone this Project to your Computer
 ```bash
-git clone https://github.com/rafiechautie/Autism-detector-for-children.git
+git clone https://github.com/C241-PS451/ecoVision-Project.git
 ```
 
 or you can use Android Studio 
