@@ -12,17 +12,17 @@ accessible to all.
 - Azzaria Ivena (M004D4KX1739)
 - Miftah Fadillah (M299D4KY2280)
 - Fathan Shani  (M009D4KY1953)
-- Prananta Agistya (C014D4KY0443)
+- Prananta Agistya Aysvaram Wiritanaya (C014D4KY0443)
 - Dika Fauziladhim  (C009D4KY0750)
 - Ananda Nurrizki (A009D4KY3894)
 - Muhammad Fauzi  (A012D4KY4163)
 
 ## Screenshots
-![Pixel 8 Pro Mockup Obsidian](https://github.com/C241-PS451/ecoVision-Project/assets/108229646/d530b5a3-ec62-4f29-91a6-b55a4e957e65)
-![Pixel 8 Pro Mockup Obsidian (1)](https://github.com/C241-PS451/ecoVision-Project/assets/108229646/89f198f4-8c11-4c6a-a566-c3fa5177a2f0)
-![Pixel 8 Pro Mockup Obsidian (2)](https://github.com/C241-PS451/ecoVision-Project/assets/108229646/b2b0fbfb-bba7-4996-9235-c49192fa6e9d)
-![Pixel 8 Pro Mockup Obsidian (3)](https://github.com/C241-PS451/ecoVision-Project/assets/108229646/f220052f-9edf-4091-b9b9-23a5a561b3d0)
-![Pixel 8 Pro Mockup Obsidian (4)](https://github.com/C241-PS451/ecoVision-Project/assets/108229646/af0595be-9650-4ed5-935f-76e1813a1156)
+## ![Pixel 8 Pro Mockup Obsidian](https://github.com/C241-PS451/ecoVision-Project/assets/108229646/d530b5a3-ec62-4f29-91a6-b55a4e957e65)
+## ![Pixel 8 Pro Mockup Obsidian (1)](https://github.com/C241-PS451/ecoVision-Project/assets/108229646/89f198f4-8c11-4c6a-a566-c3fa5177a2f0)
+## ![Pixel 8 Pro Mockup Obsidian (2)](https://github.com/C241-PS451/ecoVision-Project/assets/108229646/b2b0fbfb-bba7-4996-9235-c49192fa6e9d)
+## ![Pixel 8 Pro Mockup Obsidian (3)](https://github.com/C241-PS451/ecoVision-Project/assets/108229646/f220052f-9edf-4091-b9b9-23a5a561b3d0)
+## ![Pixel 8 Pro Mockup Obsidian (4)](https://github.com/C241-PS451/ecoVision-Project/assets/108229646/af0595be-9650-4ed5-935f-76e1813a1156)
 
 
 
