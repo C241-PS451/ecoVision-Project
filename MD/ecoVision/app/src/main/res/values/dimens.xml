@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="pageMargin">16dp</dimen>
-    <dimen name="offset">32dp</dimen>
-    <dimen name="bottom_navigation_padding">56dp</dimen>
-</resources>
