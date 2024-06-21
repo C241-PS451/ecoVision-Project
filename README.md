@@ -11,7 +11,7 @@ accessible to all.
 ## Our Team Member
 - Azzaria Ivena (M004D4KX1739)
 - Miftah Fadillah (M299D4KY2280)
-- Fathan Shani  (M009D4KY1953)
+- Fathan Shani Putra Aliadi bener gk sih (M009D4KY1953)
 - Prananta Agistya Aysvaram Wiritanaya (C014D4KY0443)
 - Dika Fauziladhim  (C009D4KY0750)
 - Ananda Nurrizki (A009D4KY3894)
