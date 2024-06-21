@@ -6,7 +6,7 @@ Designed to revolutionize plastic recycling by providing quick and accurate plas
 With a simple and intuitive interface, Ecovision makes it easy for anyone to use, ensuring that accurate plastic type detection is
 accessible to all.
 
-![Logo](https://i.ibb.co.com/4Mw1Vc2/ecovision.png)
+![Logo](https://github.com/mafazer/EcoVision/assets/72061647/9d599b26-a399-4aad-982d-0dc7655bc637)
 
 ## Our Team Member
 - Azzaria Ivena (M004D4KX1739)
@@ -15,7 +15,7 @@ accessible to all.
 - Prananta Agistya Aysvaram Wiritanaya (C014D4KY0443)
 - Dika Fauziladhim  (C009D4KY0750)
 - Ananda Nurrizki (A009D4KY3894)
-- Muhammad Fauzi  (A012D4KY4163)
+- Muhammad Fauzi Ramadhan (A012D4KY4163)
 
 ## Screenshots
  ![Pixel 8 Pro Mockup Obsidian](https://github.com/C241-PS451/ecoVision-Project/assets/108229646/d530b5a3-ec62-4f29-91a6-b55a4e957e65=100x100)
