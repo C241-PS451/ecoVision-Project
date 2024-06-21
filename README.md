@@ -20,7 +20,13 @@ accessible to all.
 ## Main Features
 
 - Identifies the types of plastic
-- Nearby recycling centers based on User current location 
+- Nearby recycling centers based on User current location
+  
+## Library
+
+ - [TensorFlow](https://www.tensorflow.org/)
+ - [Retrofit](https://square.github.io/retrofit/)
+ - [Glide](https://github.com/bumptech/glide)
 
 ## Resources
 
