@@ -19,3 +19,6 @@ serviceaccountkey.json
 .DS_Store
 .idea/
 .vscode/
+
+# Docker
+.dockerignore
