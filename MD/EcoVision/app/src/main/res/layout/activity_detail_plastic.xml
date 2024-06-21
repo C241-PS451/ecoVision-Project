@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        android:elevation="4dp"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="200dp">
+
+                <com.google.android.material.imageview.ShapeableImageView
+                    android:id="@+id/imageViewPlasticDetail"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/roundstyle"
+                    android:contentDescription="@string/plastic_image"
+                    android:scaleType="centerCrop"
+                    app:shapeAppearanceOverlay="@style/RoundedCorners"
+                    tools:src="@drawable/pet_image" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom|start"
+                    android:layout_margin="12dp"
+                    android:background="@drawable/roundstyle"
+                    android:orientation="horizontal"
+                    android:padding="8dp"
+                    android:backgroundTint="@color/light_green"
+                    app:shapeAppearanceOverlay="@style/RoundedCorners">
+
+                    <ImageView
+                        android:id="@+id/imageViewPlasticSymbol"
+                        android:layout_width="32dp"
+                        android:layout_height="32dp"
+                        android:layout_marginStart="8dp"
+                        android:layout_gravity="center"
+                        android:contentDescription="@string/recycling_symbol"
+                        tools:src="@drawable/ic_pet" />
+
+                    <TextView
+                        android:id="@+id/textViewPlasticNameDetail"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="8dp"
+                        android:layout_marginEnd="8dp"
+                        android:layout_marginTop="6dp"
+                        android:text="@string/plastic_type"
+                        android:textColor="@color/black"
+                        android:textSize="24sp"
+                        android:textStyle="bold" />
+                </LinearLayout>
+            </FrameLayout>
+
+            <TextView
+                android:id="@+id/textViewDescriptionDetail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="@string/plastic_description"
+                android:textColor="@android:color/black"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/textViewRecyclingProcessDetail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="@string/recycling_tips"
+                android:textColor="@color/green"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textViewRecyclingProcessDescription"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="@string/recycling_tips_desc"
+                android:textColor="@color/green"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/textViewEnvironmentalImpactDetail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="@string/env_effect"
+                android:textColor="#6C0000"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textViewEnvironmentalImpactDescription"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="@string/env_effect_desc"
+                android:textColor="#6C0000"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/textViewExamplesDetail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="@string/example_image"
+                android:textColor="@android:color/black"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <com.denzcoskun.imageslider.ImageSlider
+                android:id="@+id/imageSlideshow"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginTop="8dp"
+                app:iss_auto_cycle="true"
+                app:iss_corner_radius="80"
+                app:iss_period="5000" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
