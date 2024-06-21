@@ -1,0 +1,21 @@
+# Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Specific files and directories
+photos/
+serviceaccountkey.json
+
+# Logs
+*.log
+
+# Other
+.DS_Store
+.idea/
+.vscode/

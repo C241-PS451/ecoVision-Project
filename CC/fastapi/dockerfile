@@ -1,0 +1,27 @@
+# image Python
+FROM python:3.9-slim
+
+# Set directory
+WORKDIR /app
+
+# copy file requirements.txt
+COPY requirements.txt .
+
+# Install dependencies requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt --verbose
+
+# Copy
+COPY . .
+
+#Copy servicekey.json, model.tflite
+COPY serviceaccountkey.json .
+COPY ecovision.tflite .
+
+# Set environment variable
+ENV GOOGLE_APPLICATION_CREDENTIALS="/app/serviceaccountkey.json"
+
+# Expose port 5000
+EXPOSE 5000
+
+# Command Uvicorn
+CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "5000"]

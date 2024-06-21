@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+tensorflow
+pillow
+bcrypt
+pydantic
+numpy
+firebase-admin
