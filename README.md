@@ -23,12 +23,13 @@ accessible to all.
  ![Pixel 8 Pro Mockup Obsidian (2)](https://github.com/C241-PS451/ecoVision-Project/assets/108229646/b2b0fbfb-bba7-4996-9235-c49192fa6e9d=100x100)
  ![Pixel 8 Pro Mockup Obsidian (3)](https://github.com/C241-PS451/ecoVision-Project/assets/108229646/f220052f-9edf-4091-b9b9-23a5a561b3d0=100x100)
  ![Pixel 8 Pro Mockup Obsidian (4)](https://github.com/C241-PS451/ecoVision-Project/assets/108229646/af0595be-9650-4ed5-935f-76e1813a1156=100x100)
-https://github.com/C241-PS451/ecoVision-Project/assets/108229646/b9bb63a6-2c6d-48ee-a085-ff415796504e
 
 
 
 ## Demo
 - [APP Demo](https://youtu.be/4PFX9ACABK8)
+- [App Features](https://github.com/C241-PS451/ecoVision-Project/assets/108229646/4c62222a-d60b-48c9-a754-ac764c8fc5b5)
+
 
 ## Main Features
 
