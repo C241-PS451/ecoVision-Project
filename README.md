@@ -42,3 +42,25 @@ accessible to all.
 ## Resources
 
  - [Project Google Drive](https://drive.google.com/drive/folders/1Gwq9ze3LNG7gCdQ3yP1IYm5PfWuD5k9R)
+
+## Installation
+
+#### 1. Clone this Project to your Computer
+```bash
+git clone https://github.com/rafiechautie/Autism-detector-for-children.git
+```
+
+or you can use Android Studio 
+
+File > New > Project from Version Control ...
+
+#### 2. Open the Project in your Android Studio
+Open Android Studio and select open an existing project.
+
+#### 3. Run Project in Android Studio
+Wait for Gradle Build to Finish and finally press the `Run > Run ‘app’`. Now the app has been installed in your phone / emulator. Make sure that you have configured your android device or emulator 
+
+### the orther way
+
+#### 1. download file APK in https://drive.google.com/file/d/13v1orGnO2W3ND_NGA3awuj4rSJ5-eB8A/view?usp=sharing 
+### 2. install that file in your mobile phone
