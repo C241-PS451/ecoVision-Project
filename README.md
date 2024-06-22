@@ -6,6 +6,7 @@ Designed to revolutionize plastic recycling by providing quick and accurate plas
 With a simple and intuitive interface, Ecovision makes it easy for anyone to use, ensuring that accurate plastic type detection is
 accessible to all.
 
+![LayoutGit](https://github.com/mafazer/EcoVision/assets/72061647/285949ee-ff30-4163-a813-07b91b9df0ec)
 ![Logo](https://github.com/mafazer/EcoVision/assets/72061647/9d599b26-a399-4aad-982d-0dc7655bc637)
 
 ## Our Team Member
